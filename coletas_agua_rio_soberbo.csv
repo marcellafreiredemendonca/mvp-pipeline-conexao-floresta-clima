@@ -1,0 +1,7 @@
+data_coleta,condicao_tempo,cor,turbidez_qualitativa,temperatura_agua_c,temperatura_ar_c,od,ph_kit,ph_sonda,amonia,nitrato,nitrito,ortofosfato,turbidez,condutividade,salinidade,tds
+2026-04-15,seco,Incolor,cristalino,,,9,7,,0.1,0.01,0,,,,,
+2026-05-18,seco,Incolor,cristalino,24.5,28.2,9,7,7.64,0,0.5,0.01,0,,32.5,10.1,18.2
+2026-06-17,seco,Incolor,cristalino,20.8,24,9,7,7.07,0,0.1,0.01,0,,2.8,1.9,
+2026-07-02,seco,Incolor,cristalino,23.1,26,5,7,7.65,1,0.3,0.01,0,,30.5,12.8,19.5
+2026-08-10,chuvoso,Incolor,cristalino,21.8,22.3,8.5,7,7.86,0.5,0.3,0.01,0,,35.1,113,23
+2026-09-10,chuvoso,Incolor,,22.3,24.3,8,5,7.31,0.1,0.1,0,0,25,27,5.2,13.5
