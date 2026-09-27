@@ -58,7 +58,7 @@ Antes de adotar o CEMADEN, foi avaliada a base da ANA (Agência Nacional de Águ
 
 ### Registro Fotográfico
 
-Fotos do processo de coleta em campo — o Rio Soberbo, a sonda multiparâmetro, o kit de análise e um aluno realizando a coleta (sem exposição de rosto, por se tratar de menores de idade) — estão disponíveis na pasta `/fotos_coleta` deste repositório.
+Fotos do processo de coleta em campo — o Rio Soberbo, a sonda multiparâmetro, o kit de análise e uma aluna consultando a tabela de referência de parâmetros durante um treinamento (sem exposição de rosto, por se tratar de menores de idade) — estão disponíveis na pasta `/fotos_coleta` deste repositório.
 
 ---
 
