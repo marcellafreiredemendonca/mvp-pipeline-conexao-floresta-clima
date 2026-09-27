@@ -56,6 +56,10 @@ Os dados primários de qualidade da água foram disponibilizados no âmbito da a
 
 Antes de adotar o CEMADEN, foi avaliada a base da ANA (Agência Nacional de Águas), cuja estação mais próxima retornou arquivos sem dados disponíveis para o período — o que motivou a mudança de fonte (ver detalhes na seção de Análise Final).
 
+### Registro Fotográfico
+
+Fotos do processo de coleta em campo — o Rio Soberbo, a sonda multiparâmetro, o kit de análise e um aluno realizando a coleta (sem exposição de rosto, por se tratar de menores de idade) — estão disponíveis na pasta `/fotos_coleta` deste repositório.
+
 ---
 
 ## Modelagem de Dados e Catálogo
