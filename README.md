@@ -211,9 +211,10 @@ Os prints das seguintes etapas estão disponíveis na pasta `/prints` deste repo
 .
 ├── README.md                          # este arquivo
 ├── notebook/
-│   └── conexao_notebook.ipynb         # (ou .py) notebook exportado do Databricks, com todo o pipeline
+│   └── conexao_notebook.py            # notebook exportado do Databricks, com todo o pipeline
 ├── data/
 │   └── coletas_agua_rio_soberbo.csv   # dado bruto de qualidade da água (fonte original)
+├── fotos_coleta/                      # fotos do processo de coleta em campo
 ├── glossario.md                       # glossário de termos técnicos (qualidade da água + engenharia de dados)
 └── prints/                            # evidências em imagem de cada etapa do pipeline
 ```
